@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: ecommerce
+    schema: ecommerce
+    tables:
+      - name: dagen_pipeline_ecommerce_sync_ecommerce_orders
+      - name: dagen_pipeline_ecommerce_sync_ecommerce_order_items
